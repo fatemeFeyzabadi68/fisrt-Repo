@@ -1,2 +1,2 @@
 # fisrt-Repo
-training for learning GitHub
+I training for learning GitHub
